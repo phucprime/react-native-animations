@@ -2415,12 +2415,12 @@
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.4.tgz"
   integrity sha512-rZ5drC/jWjrArrS8BR6SIr4cWpW09RNTYt9AMZo3Jwwif+iacXAqgVjm0B0Bv/S1jhDXKHqRVNCbACkJ89RAnQ==
 
-"@types/react-native-global-props@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.npmjs.org/@types/react-native-global-props/-/react-native-global-props-1.1.1.tgz"
-  integrity sha512-u7jCZ9OUPFfNBcpDJHvHenm9r+K6a/wiKdpoLJTaUocLueN5hS5eGcLlFdUN/SDfBLVRNAkPRV1ZDFK1GyRBOw==
+"@types/react-native-global-props@^1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@types/react-native-global-props/-/react-native-global-props-1.1.6.tgz#6ac1f2c5c9af7499c2a43a797f6b82541e4ed2eb"
+  integrity sha512-przgaq6W9n/LBE2h4aB0giHdlJ+k34qbpUxM9w/3OLVbFowI5rW3+JBsjhuRHpiGYRJkTUJKOzLi+pYZz7FfFw==
   dependencies:
-    "@types/react-native" "^0.65"
+    "@types/react-native" "^0.70"
 
 "@types/react-native-video@^5.0.12":
   version "5.0.12"
@@ -2437,10 +2437,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@^0.65":
-  version "0.65.20"
-  resolved "https://registry.npmjs.org/@types/react-native/-/react-native-0.65.20.tgz"
-  integrity sha512-LIgRFtJOYKRwu792iMvXQxWRCYVloglO+r10V+0O2wsg2LTWimpZLemcxMPMOu3ZS7/tcG6bzPnUKrIVEmsMZQ==
+"@types/react-native@^0.70":
+  version "0.70.19"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.70.19.tgz#b4e651dcf7f49c69ff3a4c3072584cad93155582"
+  integrity sha512-c6WbyCgWTBgKKMESj/8b4w+zWcZSsCforson7UdXtXMecG3MxCinYi6ihhrHVPyUrVzORsvEzK8zg32z4pK6Sg==
   dependencies:
     "@types/react" "*"
 
