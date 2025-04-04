@@ -32,7 +32,7 @@
     "@types/jest": "^26.0.23",
     "@types/react-native": "^0.66.4",
     "@types/react-native-global-props": "^1.1.1",
-    "@types/react-native-video": "^5.0.12",
+    "@types/react-native-video": "^5.0.20",
     "@types/react-test-renderer": "^17.0.1",
     "@typescript-eslint/eslint-plugin": "^5.7.0",
     "@typescript-eslint/parser": "^5.7.0",
