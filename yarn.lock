@@ -2296,10 +2296,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@testing-library/react-native@^9.0.0":
-  version "9.0.0"
-  resolved "https://registry.npmjs.org/@testing-library/react-native/-/react-native-9.0.0.tgz"
-  integrity sha512-UE3FWOsDUr+2l3Pg6JTpn2rV5uzYsxIus6ZyN1uMOTmn30bIuBBDDlWQtdWGJx92YcY4xgJA4vViCEKv7wVzJA==
+"@testing-library/react-native@^9.2.0":
+  version "9.2.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-9.2.0.tgz#28137b0261cfc75fea54c6461c5e90f33d0241b4"
+  integrity sha512-uimTtPAi0lvz1BJmz1dg4WS5mqmzahnJuBlpuuX0aNfiICjhhlsRM8YH2XDeAjKvGokmhshEM7EB2MeAyTCetQ==
   dependencies:
     pretty-format "^27.0.0"
 
